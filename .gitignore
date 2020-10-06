@@ -1,3 +1,5 @@
 EchoServer/bin/*
 EchoServer/obj/*
 EchoServer/database.db
+EchoPacket/bin/*
+EchoPacket/obj/*
