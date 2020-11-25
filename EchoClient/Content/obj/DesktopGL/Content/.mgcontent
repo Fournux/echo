@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Cursor/cursor.png</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_10.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_12.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_14.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_16.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_18.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_20.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_22.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_24.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_26.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_28.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_30.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_32.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Fonts/FreeSans_34.spritefont</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Images/bar.png</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Images/button.png</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Images/red_cross.png</File>
+    <File>c:/Users/fourn/Desktop/Echo/EchoClient/Content/Images/window.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
