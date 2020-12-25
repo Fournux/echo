@@ -5,3 +5,6 @@ EchoPacket/bin/*
 EchoPacket/obj/*
 EchoClient/bin/*
 EchoClient/obj/*
+EchoClient/Content/bin/*
+EchoClient/Content/obj/*
+

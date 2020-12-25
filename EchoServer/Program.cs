@@ -6,7 +6,7 @@ using MessagePack;
 using DataAccessLayer;
 using DataAccessLayer.Models;
 
-namespace GameServer
+namespace EchoServer
 {
     class Program
     {
