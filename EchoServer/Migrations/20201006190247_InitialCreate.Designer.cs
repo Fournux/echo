@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
-namespace GameServer.Migrations
+namespace EchoServer.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
     [Migration("20201006190247_InitialCreate")]

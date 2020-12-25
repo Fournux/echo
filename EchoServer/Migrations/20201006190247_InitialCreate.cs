@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace GameServer.Migrations
+namespace EchoServer.Migrations
 {
     public partial class InitialCreate : Migration
     {
